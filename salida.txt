@@ -1,0 +1,2 @@
+Cantidad de vocales es: 17
+Cantidad de consonantes es: 56

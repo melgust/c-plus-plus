@@ -1,0 +1,23 @@
+Este archivo es creado en otra rama (mcali), el comando que se utiliza es
+
+git checkout -b mcali
+
+Donde mcali es la rama que desean crear
+
+Para agregar todos los archivos en la carpeta se hace con el siguiente comando
+
+git add .
+
+Si lo que desean es agregar un solo archivo, entonces sustituir el punto por el nombre del archivo
+
+git add vacio.txt
+
+para subir los archivo al repositorio hay que agregar un comentario primero, con el siguiente comando
+
+git commit -am "Agregar archivo de instruccion"
+
+Luego 
+
+git push origin mcali
+
+origin mcali, le dice a que rama debe subir esos cambios
