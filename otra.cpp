@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void LobosWolves() {
+	cout << "Me llamo Mario Lobos"
+}
+
 int main() 
 {
 	int tamanio = 5;
