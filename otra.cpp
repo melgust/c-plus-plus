@@ -2,6 +2,9 @@
 
 using namespace std;
 
+void Juchiha99(){
+	cout<<"Me llamo Juan Jose Monroy";
+}
 int main() 
 {
 	int tamanio = 5;
