@@ -2,6 +2,12 @@
 
 using namespace std;
 
+void ElChecha(){
+	
+	cout << "Me llamo Cesar" << endl;
+	
+}
+
 int main() 
 {
 	int tamanio = 5;
