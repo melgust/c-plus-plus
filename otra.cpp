@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void eduardotato01(){
+	cout<< "me llamo eduardotato01"
+}
+
 int main() 
 {
 	int tamanio = 5;
