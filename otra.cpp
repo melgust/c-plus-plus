@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void pdVerpi(){
+	cout << "Dennys Stuar Hernandez Moran estuvo aqui";
+}
+
 int main() 
 {
 	int tamanio = 5;
@@ -29,3 +33,5 @@ int main()
 	}
 	return 0;
 }
+
+
