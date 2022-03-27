@@ -2,13 +2,16 @@
 
 using namespace std;
 
-
 void LobosWolves() {
 	cout << "Me llamo Mario Lobos";
 }
 
 void pdMcali() {
 	cout << "Me llamo Melvin";
+}
+
+void pdVerpi(){
+	cout << "Dennys Stuar Hernandez Moran estuvo aqui";
 }
 
 int main() 
@@ -38,3 +41,5 @@ int main()
 	}
 	return 0;
 }
+
+
