@@ -2,6 +2,10 @@
 
 using namespace std;
 
+void pdTato3216(){
+	cout << "Me llamo Santos Hernandez";
+}
+
 int main() 
 {
 	int tamanio = 5;
