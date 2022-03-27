@@ -2,6 +2,11 @@
 
 using namespace std;
 
+void Wilmer()
+{
+	cout << "Me llamo Wilmer Contreras";
+}
+
 int main() 
 {
 	int tamanio = 5;
