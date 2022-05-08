@@ -2,6 +2,22 @@
 
 using namespace std;
 
+void LobosWolves() {
+	cout << "Me llamo Mario Lobos";
+}
+
+void pdMcali() {
+	cout << "Me llamo Melvin";
+}
+
+void pdVerpi(){
+	cout << "Dennys Stuar Hernandez Moran estuvo aqui";
+}
+
+void Juchiha99(){
+	cout<<"Me llamo Juan Jose Monroy";
+}
+
 int main() 
 {
 	int tamanio = 5;
@@ -29,3 +45,5 @@ int main()
 	}
 	return 0;
 }
+
+
